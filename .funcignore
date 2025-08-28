@@ -1,0 +1,11 @@
+*.js.map
+*.ts
+.git*
+.vscode
+local.settings.json
+test
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
+
